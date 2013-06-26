@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<info>
+    <id>files_pdfmime</id>
+    <name>PDF MIME</name>
+    <description>Browser built-in PDF viewer</description>
+    <licence>AGPL</licence>
+    <author>Zheng Shao @axot</author>
+    <require>4</require>
+    <shipped>true</shipped>
+    <default_enable/>
+</info>
