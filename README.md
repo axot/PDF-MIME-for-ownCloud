@@ -6,6 +6,6 @@ PDF-MIME-for-ownCloud
 1. Download files_pdfmime to path-to-owncloud/apps/
 2. Fix the file permissions, depends on your environment.
    
-       sudo chmod -R www:www files_pdfmime
+       sudo chown -R www:www files_pdfmime
        
 3. Enable the it in your ownCloud app settings.
